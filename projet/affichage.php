@@ -130,6 +130,7 @@ elseif (isset($_POST['utiliser']) && isset($_POST['nom'])) {
 <style>
 body{
     background-image: url(img/StreetFighter.png);
+    background-color: greenyellow;
 }
 </style>
 
